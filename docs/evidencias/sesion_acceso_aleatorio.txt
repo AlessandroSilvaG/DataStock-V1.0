@@ -1,0 +1,108 @@
+===== ACCESO ALEATORIO =====
+
+Fichero: datos/salidas/stock.bin | Productos en memoria: 0
+1. Cargar productos desde JSON
+2. Cargar productos desde XML
+3. Generar stock.bin con los productos en memoria
+4. Consultar un registro por posición
+5. Modificar el stock de un registro
+6. Mostrar todos los registros
+0. Salir
+Opción: Ruta: Importados: 3 | Rechazados: 0
+
+Fichero: datos/salidas/stock.bin | Productos en memoria: 3
+1. Cargar productos desde JSON
+2. Cargar productos desde XML
+3. Generar stock.bin con los productos en memoria
+4. Consultar un registro por posición
+5. Modificar el stock de un registro
+6. Mostrar todos los registros
+0. Salir
+Opción: Ruta: Importados: 1 | Rechazados: 1
+
+Fichero: datos/salidas/stock.bin | Productos en memoria: 4
+1. Cargar productos desde JSON
+2. Cargar productos desde XML
+3. Generar stock.bin con los productos en memoria
+4. Consultar un registro por posición
+5. Modificar el stock de un registro
+6. Mostrar todos los registros
+0. Salir
+Opción: Generado. Registros: 4 | Tamaño: 144 bytes
+
+Fichero: datos/salidas/stock.bin | Productos en memoria: 4
+1. Cargar productos desde JSON
+2. Cargar productos desde XML
+3. Generar stock.bin con los productos en memoria
+4. Consultar un registro por posición
+5. Modificar el stock de un registro
+6. Mostrar todos los registros
+0. Salir
+Opción: Registros: 4 | Tamaño: 144 bytes
+Posición: TEC-101 | 59.9 € | stock 10
+
+Fichero: datos/salidas/stock.bin | Productos en memoria: 4
+1. Cargar productos desde JSON
+2. Cargar productos desde XML
+3. Generar stock.bin con los productos en memoria
+4. Consultar un registro por posición
+5. Modificar el stock de un registro
+6. Mostrar todos los registros
+0. Salir
+Opción: Posición: Nuevo stock: Actualización correcta: stock 10 → 15
+(El inventario en memoria no cambia: stock.bin es una copia independiente.)
+
+Fichero: datos/salidas/stock.bin | Productos en memoria: 4
+1. Cargar productos desde JSON
+2. Cargar productos desde XML
+3. Generar stock.bin con los productos en memoria
+4. Consultar un registro por posición
+5. Modificar el stock de un registro
+6. Mostrar todos los registros
+0. Salir
+Opción: Registros: 4 | Tamaño: 144 bytes
+Posición: TEC-101 | 59.9 € | stock 15
+
+Fichero: datos/salidas/stock.bin | Productos en memoria: 4
+1. Cargar productos desde JSON
+2. Cargar productos desde XML
+3. Generar stock.bin con los productos en memoria
+4. Consultar un registro por posición
+5. Modificar el stock de un registro
+6. Mostrar todos los registros
+0. Salir
+Opción: 0: MON-103 | 219.0 € | stock 5
+1: RAT-102 | 12.5 € | stock 40
+2: TEC-101 | 59.9 € | stock 15
+3: XML-001 | 8.0 € | stock 2
+
+Fichero: datos/salidas/stock.bin | Productos en memoria: 4
+1. Cargar productos desde JSON
+2. Cargar productos desde XML
+3. Generar stock.bin con los productos en memoria
+4. Consultar un registro por posición
+5. Modificar el stock de un registro
+6. Mostrar todos los registros
+0. Salir
+Opción: Registros: 4 | Tamaño: 144 bytes
+Posición: ERROR: Posición fuera de rango (0-3)
+
+Fichero: datos/salidas/stock.bin | Productos en memoria: 4
+1. Cargar productos desde JSON
+2. Cargar productos desde XML
+3. Generar stock.bin con los productos en memoria
+4. Consultar un registro por posición
+5. Modificar el stock de un registro
+6. Mostrar todos los registros
+0. Salir
+Opción: Posición: Nuevo stock: ERROR: El stock no puede ser negativo
+
+Fichero: datos/salidas/stock.bin | Productos en memoria: 4
+1. Cargar productos desde JSON
+2. Cargar productos desde XML
+3. Generar stock.bin con los productos en memoria
+4. Consultar un registro por posición
+5. Modificar el stock de un registro
+6. Mostrar todos los registros
+0. Salir
+Opción: 

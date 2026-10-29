@@ -1,0 +1,31 @@
+===== CONSULTAS XPATH =====
+Fichero: 
+1. Por código | 2. Por categoría | 3. Precio superior | 4. Contar | 0. Salir
+Opción: Código: TEC-001 Teclado USB 19.95 €
+Productos encontrados: 1
+
+1. Por código | 2. Por categoría | 3. Precio superior | 4. Contar | 0. Salir
+Opción: Código: Productos encontrados: 0
+
+1. Por código | 2. Por categoría | 3. Precio superior | 4. Contar | 0. Salir
+Opción: Categoría: TEC-001 Teclado USB 19.95 €
+RAT-100 Ratón gaming 100.00 €
+Productos encontrados: 2
+
+1. Por código | 2. Por categoría | 3. Precio superior | 4. Contar | 0. Salir
+Opción: Precio mínimo: MON-003 Monitor 24 pulgadas 149.99 €
+Productos encontrados: 1
+
+1. Por código | 2. Por categoría | 3. Precio superior | 4. Contar | 0. Salir
+Opción: Precio mínimo: MON-003 Monitor 24 pulgadas 149.99 €
+RAT-100 Ratón gaming 100.00 €
+Productos encontrados: 2
+
+1. Por código | 2. Por categoría | 3. Precio superior | 4. Contar | 0. Salir
+Opción: Precio mínimo: ERROR: el precio no es un número válido
+
+1. Por código | 2. Por categoría | 3. Precio superior | 4. Contar | 0. Salir
+Opción: Productos: 3
+
+1. Por código | 2. Por categoría | 3. Precio superior | 4. Contar | 0. Salir
+Opción: 

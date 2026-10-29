@@ -1,0 +1,239 @@
+
+================================================
+         DATASTOCK - GESTIÓN DE INVENTARIO
+                 FASE 1 - UT1
+================================================
+Productos en memoria: 0
+1. Explorar ficheros y directorios
+2. Importar productos desde JSON
+3. Importar productos desde XML
+4. Consultar productos
+5. Exportar productos
+6. Guardar y recuperar inventario
+0. Salir
+Selecciona una opción: 
+===== EXPLORAR RUTA =====
+Ruta: [FICHERO] catalogo_con_errores.json 347 bytes
+[FICHERO] catalogo_malformado.json 63 bytes
+[FICHERO] catalogo_valido.json 246 bytes
+[FICHERO] catalogo_valido.xml 274 bytes
+[FICHERO] LEEME.txt 372 bytes
+Total ficheros: 5 | Directorios: 0
+Pulsa Intro para continuar...
+================================================
+         DATASTOCK - GESTIÓN DE INVENTARIO
+                 FASE 1 - UT1
+================================================
+Productos en memoria: 0
+1. Explorar ficheros y directorios
+2. Importar productos desde JSON
+3. Importar productos desde XML
+4. Consultar productos
+5. Exportar productos
+6. Guardar y recuperar inventario
+0. Salir
+Selecciona una opción: 
+===== IMPORTAR JSON =====
+Ruta: Productos encontrados: 5
+Productos importados: 3
+Productos rechazados: 2
+Incidencias:
+- Producto 4 (CAB-204): el precio debe ser mayor que 0
+- Producto 5: el código es obligatorio
+Importación finalizada con incidencias.
+Pulsa Intro para continuar...
+================================================
+         DATASTOCK - GESTIÓN DE INVENTARIO
+                 FASE 1 - UT1
+================================================
+Productos en memoria: 3
+1. Explorar ficheros y directorios
+2. Importar productos desde JSON
+3. Importar productos desde XML
+4. Consultar productos
+5. Exportar productos
+6. Guardar y recuperar inventario
+0. Salir
+Selecciona una opción: 
+===== IMPORTAR XML =====
+Ruta: Productos encontrados: 3
+Productos importados: 3
+Productos rechazados: 0
+Importación finalizada.
+Pulsa Intro para continuar...
+================================================
+         DATASTOCK - GESTIÓN DE INVENTARIO
+                 FASE 1 - UT1
+================================================
+Productos en memoria: 6
+1. Explorar ficheros y directorios
+2. Importar productos desde JSON
+3. Importar productos desde XML
+4. Consultar productos
+5. Exportar productos
+6. Guardar y recuperar inventario
+0. Salir
+Selecciona una opción: 
+===== IMPORTAR JSON =====
+Ruta: Productos encontrados: 3
+Productos importados: 2
+Productos rechazados: 1
+Incidencias:
+- Producto 3 (NEW-001): código duplicado
+Importación finalizada con incidencias.
+Pulsa Intro para continuar...
+================================================
+         DATASTOCK - GESTIÓN DE INVENTARIO
+                 FASE 1 - UT1
+================================================
+Productos en memoria: 8
+1. Explorar ficheros y directorios
+2. Importar productos desde JSON
+3. Importar productos desde XML
+4. Consultar productos
+5. Exportar productos
+6. Guardar y recuperar inventario
+0. Salir
+Selecciona una opción: 
+===== IMPORTAR XML =====
+Ruta: ERROR: XML mal formado o con DTD (no permitido): DOCTYPE is disallowed when the feature "http://apache.org/xml/features/disallow-doctype-decl" set to true.
+Importación cancelada: el inventario no ha cambiado.
+Pulsa Intro para continuar...
+================================================
+         DATASTOCK - GESTIÓN DE INVENTARIO
+                 FASE 1 - UT1
+================================================
+Productos en memoria: 8
+1. Explorar ficheros y directorios
+2. Importar productos desde JSON
+3. Importar productos desde XML
+4. Consultar productos
+5. Exportar productos
+6. Guardar y recuperar inventario
+0. Salir
+Selecciona una opción: 
+---------- CONSULTA DE PRODUCTOS ----------
+1. Listar todos los productos
+2. Buscar producto por código
+3. Buscar productos por nombre
+0. Volver al menú principal
+Selecciona una opción: CÓDIGO       NOMBRE                             PRECIO  STOCK  CAT. PROV.
+HUB-403      Hub USB & lector de tarjetas      15.75 €     30     3     1
+MON-203      Monitor 24 pulgadas              149.99 €      6     2     2
+MON-401      Monitor curvo 32 pulgadas        299.00 €      4     2     2
+NEW-001      Producto nuevo                     5.00 €      9     1     1
+RAT-202      Ratón ergonómico                  31.00 €      8     1     1
+TEC-101      Teclado duplicado (no debe sustituir al original)     1.00 €      1     1     1
+TEC-201      Teclado compacto                  24.90 €     15     1     1
+TEC-402      Teclado inalámbrico               45.00 €     12     1     1
+Pulsa Intro para continuar...
+---------- CONSULTA DE PRODUCTOS ----------
+1. Listar todos los productos
+2. Buscar producto por código
+3. Buscar productos por nombre
+0. Volver al menú principal
+Selecciona una opción: Código: Código: TEC-201
+Nombre: Teclado compacto
+Precio: 24.90 € | Stock: 15
+Categoría: 1 | Proveedor: 1
+Pulsa Intro para continuar...
+---------- CONSULTA DE PRODUCTOS ----------
+1. Listar todos los productos
+2. Buscar producto por código
+3. Buscar productos por nombre
+0. Volver al menú principal
+Selecciona una opción: Nombre (o parte): Código: MON-203
+Nombre: Monitor 24 pulgadas
+Precio: 149.99 € | Stock: 6
+Categoría: 2 | Proveedor: 2
+
+Código: MON-401
+Nombre: Monitor curvo 32 pulgadas
+Precio: 299.00 € | Stock: 4
+Categoría: 2 | Proveedor: 2
+
+Pulsa Intro para continuar...
+---------- CONSULTA DE PRODUCTOS ----------
+1. Listar todos los productos
+2. Buscar producto por código
+3. Buscar productos por nombre
+0. Volver al menú principal
+Selecciona una opción: 
+================================================
+         DATASTOCK - GESTIÓN DE INVENTARIO
+                 FASE 1 - UT1
+================================================
+Productos en memoria: 8
+1. Explorar ficheros y directorios
+2. Importar productos desde JSON
+3. Importar productos desde XML
+4. Consultar productos
+5. Exportar productos
+6. Guardar y recuperar inventario
+0. Salir
+Selecciona una opción: 
+---------- EXPORTAR PRODUCTOS ----------
+1. Exportar productos a JSON
+2. Exportar productos a XML
+0. Volver al menú principal
+Selecciona una opción: Ruta de destino: Fichero generado correctamente: /home/claude/work/S/datos/salidas/inventario.json
+Formato: JSON | Productos exportados: 8
+Pulsa Intro para continuar...
+---------- EXPORTAR PRODUCTOS ----------
+1. Exportar productos a JSON
+2. Exportar productos a XML
+0. Volver al menú principal
+Selecciona una opción: Ruta de destino: Fichero generado correctamente: /home/claude/work/S/datos/salidas/inventario.xml
+Formato: XML | Productos exportados: 8
+Pulsa Intro para continuar...
+---------- EXPORTAR PRODUCTOS ----------
+1. Exportar productos a JSON
+2. Exportar productos a XML
+0. Volver al menú principal
+Selecciona una opción: 
+================================================
+         DATASTOCK - GESTIÓN DE INVENTARIO
+                 FASE 1 - UT1
+================================================
+Productos en memoria: 8
+1. Explorar ficheros y directorios
+2. Importar productos desde JSON
+3. Importar productos desde XML
+4. Consultar productos
+5. Exportar productos
+6. Guardar y recuperar inventario
+0. Salir
+Selecciona una opción: 
+---------- GUARDAR Y RECUPERAR INVENTARIO ----------
+1. Guardar inventario en fichero .dat
+2. Recuperar inventario desde fichero .dat
+0. Volver al menú principal
+Selecciona una opción: Ruta de destino (.dat): Inventario guardado. Productos guardados: 8
+Pulsa Intro para continuar...
+---------- GUARDAR Y RECUPERAR INVENTARIO ----------
+1. Guardar inventario en fichero .dat
+2. Recuperar inventario desde fichero .dat
+0. Volver al menú principal
+Selecciona una opción: Recupera solo ficheros .dat generados por DataStock.
+Ruta: Actualmente hay 8 productos en memoria.
+La recuperación sustituirá el inventario actual.
+¿Continuar? (S/N): Inventario recuperado correctamente. Productos disponibles: 8
+Pulsa Intro para continuar...
+---------- GUARDAR Y RECUPERAR INVENTARIO ----------
+1. Guardar inventario en fichero .dat
+2. Recuperar inventario desde fichero .dat
+0. Volver al menú principal
+Selecciona una opción: 
+================================================
+         DATASTOCK - GESTIÓN DE INVENTARIO
+                 FASE 1 - UT1
+================================================
+Productos en memoria: 8
+1. Explorar ficheros y directorios
+2. Importar productos desde JSON
+3. Importar productos desde XML
+4. Consultar productos
+5. Exportar productos
+6. Guardar y recuperar inventario
+0. Salir
+Selecciona una opción: Hasta pronto.
