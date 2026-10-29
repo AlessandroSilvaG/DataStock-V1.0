@@ -1,0 +1,5 @@
+﻿target/
+datos/salidas/
+.idea/
+.vscode/
+*.class
