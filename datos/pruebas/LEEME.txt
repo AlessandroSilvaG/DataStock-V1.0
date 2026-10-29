@@ -1,0 +1,16 @@
+Ficheros de prueba de DataStock UT1 (los usa PruebasAceptacion; también sirven para probar a mano).
+
+json_3_validos.json ............ 3 productos correctos
+json_3_validos_2_invalidos.json  5 productos: 3 correctos, 1 precio negativo, 1 código vacío
+json_malformado.json ........... llave sin cerrar
+json_coma_final.json ........... coma antes de "]" (JSON incorrecto)
+json_raiz_array.json ........... la raíz es un array, no un objeto con "productos"
+json_duplicado.json ............ TEC-101 (ya existente en las pruebas) y NEW-001 repetido en el mismo fichero
+xml_3_validos.xml .............. 3 productos correctos (uno con &amp; en el nombre)
+xml_con_invalidos.xml .......... 1 correcto, 1 precio "abc", 1 sin campo stock
+xml_con_dtd.xml ................ contiene DOCTYPE con entidad externa (intento de XXE)
+xml_malformado.xml ............. etiqueta sin cerrar
+xml_raiz_incorrecta.xml ........ la raíz es <productos>
+xml_duplicado_json.xml ......... TEC-101 (ya importado por JSON) y un producto nuevo
+xpath_catalogo.xml ............. 3 productos; uno cuesta exactamente 100.00
+xpath_catalogo_con_errores.xml . 3 elementos producto, dos con datos incorrectos

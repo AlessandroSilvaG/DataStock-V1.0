@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<catalogo>
+  <producto><codigo>TEC-101</codigo><nombre>Duplicado de uno importado por JSON</nombre><precio>1.00</precio><stock>1</stock><categoriaId>1</categoriaId><proveedorId>1</proveedorId></producto>
+  <producto><codigo>XML-001</codigo><nombre>Producto nuevo desde XML</nombre><precio>8.00</precio><stock>2</stock><categoriaId>1</categoriaId><proveedorId>1</proveedorId></producto>
+</catalogo>

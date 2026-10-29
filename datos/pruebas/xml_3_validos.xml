@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<catalogo>
+  <producto>
+    <codigo>MON-401</codigo><nombre>Monitor curvo 32 pulgadas</nombre>
+    <precio>299.00</precio><stock>4</stock>
+    <categoriaId>2</categoriaId><proveedorId>2</proveedorId>
+  </producto>
+  <producto>
+    <codigo>TEC-402</codigo><nombre>Teclado inalámbrico</nombre>
+    <precio>45.00</precio><stock>12</stock>
+    <categoriaId>1</categoriaId><proveedorId>1</proveedorId>
+  </producto>
+  <producto>
+    <codigo>HUB-403</codigo><nombre>Hub USB &amp; lector de tarjetas</nombre>
+    <precio>15.75</precio><stock>30</stock>
+    <categoriaId>3</categoriaId><proveedorId>1</proveedorId>
+  </producto>
+</catalogo>

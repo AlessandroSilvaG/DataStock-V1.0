@@ -1,0 +1,9 @@
+{
+  "productos": [
+    {"codigo":"TEC-201","nombre":"Teclado compacto","precio":24.90,"stock":15,"categoriaId":1,"proveedorId":1},
+    {"codigo":"RAT-202","nombre":"Ratón ergonómico","precio":31.00,"stock":8,"categoriaId":1,"proveedorId":1},
+    {"codigo":"MON-203","nombre":"Monitor 24 pulgadas","precio":149.99,"stock":6,"categoriaId":2,"proveedorId":2},
+    {"codigo":"CAB-204","nombre":"Cable HDMI","precio":-3.50,"stock":50,"categoriaId":3,"proveedorId":1},
+    {"codigo":"","nombre":"Producto sin código","precio":9.99,"stock":3,"categoriaId":3,"proveedorId":1}
+  ]
+}

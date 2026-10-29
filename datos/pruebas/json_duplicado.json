@@ -1,0 +1,7 @@
+{
+  "productos": [
+    {"codigo":"tec-101 ","nombre":"Teclado duplicado (no debe sustituir al original)","precio":1.00,"stock":1,"categoriaId":1,"proveedorId":1},
+    {"codigo":"NEW-001","nombre":"Producto nuevo","precio":5.00,"stock":9,"categoriaId":1,"proveedorId":1},
+    {"codigo":"NEW-001","nombre":"Repetido dentro del fichero","precio":6.00,"stock":2,"categoriaId":1,"proveedorId":1}
+  ]
+}

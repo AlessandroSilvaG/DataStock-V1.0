@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<catalogo>
+  <producto><codigo>XML-501</codigo><nombre>Producto correcto</nombre><precio>10.00</precio><stock>5</stock><categoriaId>1</categoriaId><proveedorId>1</proveedorId></producto>
+  <producto><codigo>XML-502</codigo><nombre>Precio no numérico</nombre><precio>abc</precio><stock>5</stock><categoriaId>1</categoriaId><proveedorId>1</proveedorId></producto>
+  <producto><codigo>XML-503</codigo><nombre>Falta el stock</nombre><precio>10.00</precio><categoriaId>1</categoriaId><proveedorId>1</proveedorId></producto>
+</catalogo>
